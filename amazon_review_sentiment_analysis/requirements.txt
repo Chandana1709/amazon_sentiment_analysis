@@ -15,6 +15,7 @@ pip==22.2.2
 pipeline==0.1.0
 pickle-mixin==1.0.2
 pickleshare==0.7.5
+plotly==5.10.0
 regex==2022.8.17
 requests==2.28.1s
 scikit-learn==1.1.2
