@@ -1,7 +1,7 @@
 # Core Pkgs
 import streamlit as st 
 import altair as alt
-import plotly as px 
+import matplotlib.pyplot as px 
 
 # EDA Pkgs
 import pandas as pd 
