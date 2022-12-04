@@ -28,6 +28,7 @@ textblob==0.17.1
 wordcloud==1.8.2.2
 python==3.10
 threadpoolctl>=2.0.0
+tenacity==8.1.0
 Werkzeug==2.2.2
 
 
